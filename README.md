@@ -3,3 +3,4 @@
 - nvim
 - starship
 - colorls
+- zsh
