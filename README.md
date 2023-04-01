@@ -1,5 +1,5 @@
-# Vault for configuration files 
+# Yet Another Config
 
-- fish
+- nvim
 - starship
 - colorls
