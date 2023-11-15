@@ -1,6 +1,4 @@
-# YAC
-
-## Yet Another Config
+# dot
 
 - nvim
 - starship
