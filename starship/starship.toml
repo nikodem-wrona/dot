@@ -26,7 +26,6 @@ threshold = 50
 symbol = " "
 style = "bold dimmed green"
 
-
 [username]
 style_user = "green bold"
 style_root = "red bold"
@@ -46,4 +45,3 @@ format = '[\[$time\]]($style) '
 time_format = "%T"
 utc_time_offset = "+1"
 style = "dimmed green"
-
